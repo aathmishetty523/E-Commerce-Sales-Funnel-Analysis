@@ -1,18 +1,18 @@
-*Olist End-to-End E-Commerce & Marketing Analytics*
+***Olist End-to-End E-Commerce & Marketing Analytics***
 
 
 An end-to-end analytics project built on the Olist Brazilian E-Commerce and Marketing Funnel datasets, covering the complete workflow from raw data ingestion -> analytical modeling -> SQL insights -> Power BI dashboards.
 
 This project demonstrates how real-world analytics teams design data models, validate data, derive insights, and communicate results through interactive dashboards.
 
-Business Context & Objectives
+**Business Context & Objectives**
 
 
 Olist is a Brazilian e-commerce platform connecting sellers and customers across multiple categories.
 
 
 
-The objective of this project is to analyze:
+**The objective of this project is to analyze:**
 
 
 
@@ -24,7 +24,7 @@ Marketing funnel effectiveness (MQL -> closed sellers)
 Revenue quality of acquired sellers
 The project is structured to reflect how analytics work is performed in production environments.
 
-Dataset Overview
+**Dataset Overview**
 
 
 This project uses publicly available datasets from Kaggle, spanning two analytical domains:
@@ -35,8 +35,8 @@ Detailed dataset descriptions and source links are documented in: -> 02_data_sou
 
 Domains Covered
 
-
-E-Commerce Transactions
+**
+E-Commerce Transactions**
 
 Customers
 Orders
@@ -47,7 +47,7 @@ Payments
 Reviews
 Marketing Funnel
 
-Marketing Qualified Leads (MQLs)
+**Marketing Qualified Leads (MQLs)**
 
 
 Closed Deals (seller acquisition outcomes)
@@ -76,6 +76,7 @@ Analytical data models
 
 Star schema for e-commerce transactions
 Funnel-based logical model for marketing data
+
 07_Analytical_Insights
 SQL-driven business analysis and metric derivation
 
