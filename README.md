@@ -1,4 +1,4 @@
-Olist End-to-End E-Commerce & Marketing Analytics
+*Olist End-to-End E-Commerce & Marketing Analytics*
 
 
 An end-to-end analytics project built on the Olist Brazilian E-Commerce and Marketing Funnel datasets, covering the complete workflow from raw data ingestion -> analytical modeling -> SQL insights -> Power BI dashboards.
